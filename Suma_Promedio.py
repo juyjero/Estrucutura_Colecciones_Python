@@ -1,0 +1,5 @@
+tupla = (10, 20, 30, 40)
+suma = sum(tupla)
+promedio = suma / len(tupla)
+print("Suma =", suma)
+print("Promedio =", promedio)
